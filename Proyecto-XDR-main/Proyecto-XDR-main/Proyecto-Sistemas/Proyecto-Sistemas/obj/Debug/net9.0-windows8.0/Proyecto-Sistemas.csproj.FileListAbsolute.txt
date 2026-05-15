@@ -1,0 +1,23 @@
+C:\Users\PC\Downloads\Proyecto-Sistemas\Proyecto-Sistemas\bin\Debug\net9.0-windows8.0\Proyecto-Sistemas.exe
+C:\Users\PC\Downloads\Proyecto-Sistemas\Proyecto-Sistemas\bin\Debug\net9.0-windows8.0\Proyecto-Sistemas.deps.json
+C:\Users\PC\Downloads\Proyecto-Sistemas\Proyecto-Sistemas\bin\Debug\net9.0-windows8.0\Proyecto-Sistemas.runtimeconfig.json
+C:\Users\PC\Downloads\Proyecto-Sistemas\Proyecto-Sistemas\bin\Debug\net9.0-windows8.0\Proyecto-Sistemas.dll
+C:\Users\PC\Downloads\Proyecto-Sistemas\Proyecto-Sistemas\bin\Debug\net9.0-windows8.0\Proyecto-Sistemas.pdb
+C:\Users\PC\Downloads\Proyecto-Sistemas\Proyecto-Sistemas\obj\Debug\net9.0-windows8.0\Proyecto_Sistemas.Form1.resources
+C:\Users\PC\Downloads\Proyecto-Sistemas\Proyecto-Sistemas\obj\Debug\net9.0-windows8.0\Proyecto_Sistemas.Menu.resources
+C:\Users\PC\Downloads\Proyecto-Sistemas\Proyecto-Sistemas\obj\Debug\net9.0-windows8.0\Proyecto_Sistemas.MonitoreoArch.resources
+C:\Users\PC\Downloads\Proyecto-Sistemas\Proyecto-Sistemas\obj\Debug\net9.0-windows8.0\Proyecto_Sistemas.MonitoreoSis.resources
+C:\Users\PC\Downloads\Proyecto-Sistemas\Proyecto-Sistemas\obj\Debug\net9.0-windows8.0\Proyecto_Sistemas.Properties.Resources.resources
+C:\Users\PC\Downloads\Proyecto-Sistemas\Proyecto-Sistemas\obj\Debug\net9.0-windows8.0\Proyecto-Sistemas.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\Proyecto-Sistemas\Proyecto-Sistemas\obj\Debug\net9.0-windows8.0\Proyecto-Sistemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\Proyecto-Sistemas\Proyecto-Sistemas\obj\Debug\net9.0-windows8.0\Proyecto-Sistemas.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\Proyecto-Sistemas\Proyecto-Sistemas\obj\Debug\net9.0-windows8.0\Proyecto-Sistemas.AssemblyInfo.cs
+C:\Users\PC\Downloads\Proyecto-Sistemas\Proyecto-Sistemas\obj\Debug\net9.0-windows8.0\Proyecto-Sistemas.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Proyecto-Sistemas\Proyecto-Sistemas\obj\Debug\net9.0-windows8.0\Proyecto-Sistemas.dll
+C:\Users\PC\Downloads\Proyecto-Sistemas\Proyecto-Sistemas\obj\Debug\net9.0-windows8.0\refint\Proyecto-Sistemas.dll
+C:\Users\PC\Downloads\Proyecto-Sistemas\Proyecto-Sistemas\obj\Debug\net9.0-windows8.0\Proyecto-Sistemas.pdb
+C:\Users\PC\Downloads\Proyecto-Sistemas\Proyecto-Sistemas\obj\Debug\net9.0-windows8.0\Proyecto-Sistemas.genruntimeconfig.cache
+C:\Users\PC\Downloads\Proyecto-Sistemas\Proyecto-Sistemas\obj\Debug\net9.0-windows8.0\ref\Proyecto-Sistemas.dll
+C:\Users\José Rúben Martinez\Downloads\Proyecto-XDR-main\Proyecto-XDR-main\Proyecto-Sistemas\Proyecto-Sistemas\obj\Debug\net9.0-windows8.0\Proyecto-Sistemas.dll
+C:\Users\José Rúben Martinez\Downloads\Proyecto-XDR-main\Proyecto-XDR-main\Proyecto-Sistemas\Proyecto-Sistemas\obj\Debug\net9.0-windows8.0\refint\Proyecto-Sistemas.dll
+C:\Users\José Rúben Martinez\Downloads\Proyecto-XDR-main\Proyecto-XDR-main\Proyecto-Sistemas\Proyecto-Sistemas\obj\Debug\net9.0-windows8.0\Proyecto-Sistemas.pdb
